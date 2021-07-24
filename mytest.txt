@@ -1,6 +1,12 @@
 WELCOME to github
 distributed version control system
+create a git repository
+create a file
 
 
 Thank you
+
+Done my changes
+
 final step
+

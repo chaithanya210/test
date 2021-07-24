@@ -1,5 +1,7 @@
 WELCOME to github
 distributed version control system
+create a git repository
+create a file
 
 
 Thank you
